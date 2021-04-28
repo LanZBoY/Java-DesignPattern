@@ -1,4 +1,4 @@
-package StrategyPattern;
+package DessginPattern.Strategy;
 
 public class PayPal implements PaymentStrategy {
 	private String email;

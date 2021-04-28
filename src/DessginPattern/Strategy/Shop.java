@@ -1,4 +1,4 @@
-package StrategyPattern;
+package DessginPattern.Strategy;
 
 public class Shop {
 	public int amout;
